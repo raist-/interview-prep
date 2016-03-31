@@ -1,6 +1,6 @@
 # interview-prep
 
-# Data Structures:
+## Data Structures:
 - Linked Lists
 - Binary Trees
 - Tries
@@ -9,7 +9,7 @@
 - Vectors / ArrayLists
 - Hash Tables
 
-# Algorithms:
+## Algorithms:
 - Breadth First Search
 - Depth First Search
 - Binary Search
@@ -21,11 +21,11 @@
 - K-Means
 - K-Medoids
 
-# Design Patterns:
+## Design Patterns:
 - Singleton
 - Factory
 
-# Concepts:
+## Concepts:
 - Bit Manipulation
 - Memory (Stack vs Heap)
 - Recursion
